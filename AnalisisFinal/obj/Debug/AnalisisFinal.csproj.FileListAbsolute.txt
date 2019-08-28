@@ -1,0 +1,44 @@
+c:\users\istvan\documents\visual studio 2013\Projects\Evaluador\AnalisisFinal\bin\Debug\AnalisisFinal.exe.config
+c:\users\istvan\documents\visual studio 2013\Projects\Evaluador\AnalisisFinal\bin\Debug\AnalisisFinal.exe
+c:\users\istvan\documents\visual studio 2013\Projects\Evaluador\AnalisisFinal\bin\Debug\AnalisisFinal.pdb
+c:\users\istvan\documents\visual studio 2013\Projects\Evaluador\AnalisisFinal\bin\Debug\Evaluador.dll
+c:\users\istvan\documents\visual studio 2013\Projects\Evaluador\AnalisisFinal\bin\Debug\Evaluador.pdb
+c:\users\istvan\documents\visual studio 2013\Projects\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.csprojResolveAssemblyReference.cache
+c:\users\istvan\documents\visual studio 2013\Projects\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.Properties.Resources.resources
+c:\users\istvan\documents\visual studio 2013\Projects\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.csproj.GenerateResource.Cache
+c:\users\istvan\documents\visual studio 2013\Projects\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.exe
+c:\users\istvan\documents\visual studio 2013\Projects\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.pdb
+c:\users\istvan\documents\visual studio 2013\Projects\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.Form1.resources
+C:\Users\j.figueroa\Desktop\analisis\Evaluador\AnalisisFinal\bin\Debug\AnalisisFinal.exe.config
+C:\Users\j.figueroa\Desktop\analisis\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.exe
+C:\Users\j.figueroa\Desktop\analisis\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.pdb
+C:\Users\j.figueroa\Desktop\analisis\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.csprojResolveAssemblyReference.cache
+C:\Users\j.figueroa\Desktop\analisis\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.Form1.resources
+C:\Users\j.figueroa\Desktop\analisis\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.Properties.Resources.resources
+C:\Users\j.figueroa\Desktop\analisis\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.csproj.GenerateResource.Cache
+C:\Users\j.figueroa\Desktop\analisis\Evaluador\AnalisisFinal\bin\Debug\AnalisisFinal.exe
+C:\Users\j.figueroa\Desktop\analisis\Evaluador\AnalisisFinal\bin\Debug\AnalisisFinal.pdb
+C:\Users\j.figueroa\Desktop\analisis\Evaluador\AnalisisFinal\bin\Debug\Evaluador.dll
+C:\Users\j.figueroa\Desktop\analisis\Evaluador\AnalisisFinal\bin\Debug\Evaluador.pdb
+C:\Users\ISTVAN\Desktop\analisis\Evaluador\AnalisisFinal\bin\Debug\AnalisisFinal.exe.config
+C:\Users\ISTVAN\Desktop\analisis\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.exe
+C:\Users\ISTVAN\Desktop\analisis\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.pdb
+C:\Users\ISTVAN\Desktop\analisis\Evaluador\AnalisisFinal\bin\Debug\AnalisisFinal.exe
+C:\Users\ISTVAN\Desktop\analisis\Evaluador\AnalisisFinal\bin\Debug\AnalisisFinal.pdb
+C:\Users\ISTVAN\Desktop\analisis\Evaluador\AnalisisFinal\bin\Debug\Evaluador.dll
+C:\Users\ISTVAN\Desktop\analisis\Evaluador\AnalisisFinal\bin\Debug\Evaluador.pdb
+C:\Users\ISTVAN\Desktop\analisis\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.csprojResolveAssemblyReference.cache
+C:\Users\ISTVAN\Desktop\analisis\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.Form1.resources
+C:\Users\ISTVAN\Desktop\analisis\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.Properties.Resources.resources
+C:\Users\ISTVAN\Desktop\analisis\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.csproj.GenerateResource.Cache
+I:\UH\Analisis\Evaluador\AnalisisFinal\bin\Debug\AnalisisFinal.exe.config
+I:\UH\Analisis\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.exe
+I:\UH\Analisis\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.pdb
+I:\UH\Analisis\Evaluador\AnalisisFinal\bin\Debug\AnalisisFinal.exe
+I:\UH\Analisis\Evaluador\AnalisisFinal\bin\Debug\AnalisisFinal.pdb
+I:\UH\Analisis\Evaluador\AnalisisFinal\bin\Debug\Evaluador.dll
+I:\UH\Analisis\Evaluador\AnalisisFinal\bin\Debug\Evaluador.pdb
+I:\UH\Analisis\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.csprojResolveAssemblyReference.cache
+I:\UH\Analisis\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.Form1.resources
+I:\UH\Analisis\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.Properties.Resources.resources
+I:\UH\Analisis\Evaluador\AnalisisFinal\obj\Debug\AnalisisFinal.csproj.GenerateResource.Cache

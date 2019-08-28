@@ -1,0 +1,10 @@
+c:\users\istvan\documents\visual studio 2013\Projects\Evaluador\Evaluador\obj\Debug\Evaluador.csprojResolveAssemblyReference.cache
+c:\users\istvan\documents\visual studio 2013\Projects\Evaluador\Evaluador\bin\Debug\Evaluador.dll
+c:\users\istvan\documents\visual studio 2013\Projects\Evaluador\Evaluador\bin\Debug\Evaluador.pdb
+c:\users\istvan\documents\visual studio 2013\Projects\Evaluador\Evaluador\obj\Debug\Evaluador.dll
+c:\users\istvan\documents\visual studio 2013\Projects\Evaluador\Evaluador\obj\Debug\Evaluador.pdb
+C:\Users\j.figueroa\Desktop\analisis\Evaluador\Evaluador\bin\Debug\Evaluador.dll
+C:\Users\j.figueroa\Desktop\analisis\Evaluador\Evaluador\bin\Debug\Evaluador.pdb
+C:\Users\j.figueroa\Desktop\analisis\Evaluador\Evaluador\obj\Debug\Evaluador.csprojResolveAssemblyReference.cache
+C:\Users\j.figueroa\Desktop\analisis\Evaluador\Evaluador\obj\Debug\Evaluador.dll
+C:\Users\j.figueroa\Desktop\analisis\Evaluador\Evaluador\obj\Debug\Evaluador.pdb
